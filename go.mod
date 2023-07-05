@@ -16,7 +16,7 @@ require (
 	github.com/jinzhu/copier v0.3.5
 	github.com/klauspost/pgzip v1.2.5
 	github.com/maxbrunsfeld/counterfeiter/v6 v6.6.1
-	github.com/package-url/packageurl-go v0.1.1-0.20220203205134-d70459300c8a
+	github.com/package-url/packageurl-go v0.1.1
 	github.com/sigstore/cosign/v2 v2.1.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
